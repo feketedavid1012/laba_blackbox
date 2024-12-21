@@ -1,0 +1,9 @@
+{
+  "name": "cookie-shop-website-next",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node rag/testRAGSystem.js"
+  },
+  "dependencies": {}
+}
